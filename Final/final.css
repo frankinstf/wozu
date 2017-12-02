@@ -1,0 +1,25 @@
+body {
+  background-color: tan;
+}
+h2{
+  font-size: 50px;
+}
+textarea {
+  border: 6px solid gray;
+  border-radius: 8px;
+  background-color: beige;
+  font-family: inherit;
+  font-style: oblique;
+  font-size: 14px;
+
+}
+button {
+  border-radius: 5px;
+  outline-color: #d1d1e0;
+  /*outline-style: ridge;*/
+}
+p {
+  font-family: "Papyrus","Arial";
+  font-size: 12px;
+  font-weight: 200;
+}
