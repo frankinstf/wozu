@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Robot store</title>
+  </head>
+  <body>
+    <header>
+       <nav class="navbar-background">
+           <ul>
+             <li><a class="navlink" href="http://www.trossenrobotics.com/.">Home</a></li>
+             <li><a class="navlink" href="https://www.arduino.cc/">Software</a></li>
+             <li><a class="navlink" href="http://www.robotis.us/dynamixel/">Servos</a></li>
+           </ul>
+       </nav>
+   </header>
+  </body>
+</html>
